@@ -24,7 +24,6 @@ rustc --version
 cargo --version
 ```
 ### Step 2: Create a New Rust Project using cargo.
-1. 
 ```
 cargo new Rust
 cd Rust
