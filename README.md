@@ -14,9 +14,14 @@ sudo apt update
 ```
 sudo apt install rustup
 ```
-4. Verify Installation: Check if Rust is installed correctly by running:
+4. Setting the default Toolchain to stable
+```
+rustup default stable
+```
+6. Verify Installation: We can check if everything is set up correctly by running:
 ```
 rustc --version
+cargo --version
 ```
 ### Step 2: Create a New Rust Project using cargo.
 1. 
