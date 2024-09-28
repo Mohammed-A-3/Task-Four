@@ -54,7 +54,6 @@ chrono = "0.4"
 1. Run the Program: We can run the program with:
 ```
 cargo run
-
 ```
 ### Final Output [Rust](https://github.com/Mohammed-A-3/Task-Four/blob/main/Rust.png)
 ``
