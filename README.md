@@ -82,7 +82,7 @@ php -v
 ### Step 2: Create a PHP File
 1. Create a New PHP File: Use a text editor to create a new PHP file.
 ```
-nano hello.php
+nano File.php
 ```
 3. Write the PHP Code: Add the following code to the hello.php file: [File.php](https://github.com/Mohammed-A-3/Task-Four/blob/main/File.php)
 
