@@ -18,7 +18,7 @@ sudo apt install rustup
 ```
 rustup default stable
 ```
-6. Verify Installation: We can check if everything is set up correctly by running:
+5. Verify Installation: We can check if everything is set up correctly by running:
 ```
 rustc --version
 cargo --version
